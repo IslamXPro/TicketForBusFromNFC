@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/progress">
+    </item>
+    <item>
+    <shape android:shape="oval">
+        <size
+            android:width="35dp"
+            android:height="35dp"/>
+    </shape>
+        <clip android:drawable="@drawable/bus_img"/>
+    </item>
+</layer-list>
